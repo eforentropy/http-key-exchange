@@ -62,6 +62,3 @@ This is a demonstration project showing how to implement secure key exchange. Fo
 - Key rotation
 - Authentication mechanisms
 
-## License
-
-MIT License 
